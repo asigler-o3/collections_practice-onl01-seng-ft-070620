@@ -23,8 +23,8 @@ def reverse_array (array)
 end
 
 def kesha_maker (array)
-  array.each do |replace|
-  puts array.join
+  array.each.join do |replace|
+  puts
   end
 end
 
