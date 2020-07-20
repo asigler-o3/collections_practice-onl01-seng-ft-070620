@@ -24,7 +24,7 @@ end
 
 def kesha_maker (array)
   array.each do |replace|
-    str.chars(3)
+    string.chars(3)
   end
 end
 
