@@ -24,7 +24,7 @@ end
 
 def kesha_maker (array)
   array.each do |replace|
-    ["blake", "ashley", "scott"].join
+  array.slice(2)
   end
 end
 
