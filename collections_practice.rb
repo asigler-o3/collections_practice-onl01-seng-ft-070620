@@ -24,7 +24,6 @@ end
 
 def kesha_maker (array)
   array.each.join do |replace|
-  puts
   end
 end
 
